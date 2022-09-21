@@ -49,4 +49,7 @@ curl curl http://0.0.0.0:8080/wiki/War
 
 ## Containerized Continuous Delivery
 
+To run docker image
+
+`docker run -p 127.0.0.1:8080:8080 <image_id>`
 
