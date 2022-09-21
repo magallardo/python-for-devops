@@ -1,3 +1,5 @@
+[![Test Multiple Python Versions](https://github.com/magallardo/python-for-devops/actions/workflows/main.yml/badge.svg)](https://github.com/magallardo/python-for-devops/actions/workflows/main.yml)
+
 # python-for-devops
 Python DevOps work
 
