@@ -19,7 +19,7 @@ Build out python project scaffold
 * python_library
 * Dockerfile
 * command-line-tool
-* MICROSERVICE
+* Microservice
 
 
 ### AWS CloudShell
