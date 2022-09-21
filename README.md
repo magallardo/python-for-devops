@@ -15,17 +15,19 @@ Create development environment that is cloud-based:
 
 Build out python project scaffold
 
-* Makefile
-* requirements.txt
-* test_library.py
-* python_library
+* [Makefile](https://github.com/magallardo/python-for-devops/blob/main/Makefile)
+* [requirements.txt](https://github.com/magallardo/python-for-devops/blob/main/requirements.txt)
+* [test_devopslib.py](https://github.com/magallardo/python-for-devops/blob/main/test_devopslib.py)
+* [python_library](https://github.com/magallardo/python-for-devops/blob/main/devopslib)
 * Dockerfile
 * command-line-tool
 * Microservice
 
+1. Clone project
 1. Create a virtualenv: python3 -m venv .venv
 2. Activate venv: source .venv/bin/activate
-3. To deactivate venv: deactivatep
+3. Set and start environemnt: make all
+4. To deactivate venv: deactivatep
 
 
 ### AWS CloudShell
