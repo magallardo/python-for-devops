@@ -8,3 +8,8 @@ lint:
 test:
 	python -m pytest -vv --cov=devopslib --cov=test_*.py
 	# python -m pytest --nbval getting_started_python.ipynb # test jupyter notebook
+
+format:
+	black *.py devopslib/*.py
+
+all: install lint test format
