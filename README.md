@@ -10,6 +10,18 @@ Create development environment that is cloud-based:
 
 
 ### Github Codespaces
+
+Build out python project scaffold
+
+* Makefile
+* requirements.txt
+* test_library.py
+* python_library
+* Dockerfile
+* command-line-tool
+* MICROSERVICE
+
+
 ### AWS CloudShell
 ### AWS Cloud9
 
