@@ -38,6 +38,15 @@ Build out python project scaffold
 
 ## Microservices
 
+To get phrase to work, need to download corpora
+python -m textblob.download.corpora
+
+To test microservices run:
+curl curl http://0.0.0.0:8080/search/google
+curl curl http://0.0.0.0:8080/wiki/War
+
+
+
 ## Containerized Continuous Delivery
 
 
